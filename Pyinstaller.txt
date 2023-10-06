@@ -1,0 +1,3 @@
+pyinstaller MadBot.py
+
+

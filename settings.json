@@ -1,0 +1,45 @@
+[
+{
+    "HOLDERWALLETPRIVATEKEY": "do not enter it manually, open the bot : it will encrypt it",
+    "HOLDERWALLETADDRESS": "wallet address where you hold the token required to make the bot work",
+    "TRADINGWALLETADDRESS": "wallet address for trading can be same as the HOLDERWALLETADDRESS",
+    "PRIVATEKEY": "do not enter it manually, open the bot : it will encrypt it",
+    "WALLETADDRESS2": "no_utility",
+    "PRIVATEKEY2": "null",
+    "WALLETADDRESS3": "null",
+    "PRIVATEKEY3": "null",
+    "WALLETADDRESS4": "null",
+    "PRIVATEKEY4": "null",
+    "WALLETADDRESS5": "null",
+    "PRIVATEKEY5": "null",
+    "USECUSTOMNODE": "false",
+    "CUSTOMNODE": "false",
+    "EXCHANGE": "pancakeswap",
+    "EXCHANGEVERSION": "2",
+    "PREAPPROVE": "true",
+    "UNLIMITEDSLIPPAGE": "false",
+    "PASSWORD_ON_CHANGE": "false",
+    "VERBOSE_PRICING": "true",
+    "SLOW_MODE": "false",
+    "ENABLE_APPRISE_NOTIFICATIONS": "false",
+    "APPRISE_PARAMETER": "null",
+    "START_BUY_AFTER_TIMESTAMP": "false",
+    "START_SELL_AFTER_TIMESTAMP": "false",
+    "_EXCHANGE_BASE_SYMBOL": "BNB ",
+    "_STABLE_BASES": {
+        "USDT": {
+            "address": "0x55d398326f99059ff775485246999027b3197955",
+            "multiplier": 0
+        },
+        "BUSD": {
+            "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+            "multiplier": 0
+        },
+        "USDC": {
+            "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+            "multiplier": 0
+        }
+    },
+    "ENCRYPTPRIVATEKEYS": "true"
+}
+]
